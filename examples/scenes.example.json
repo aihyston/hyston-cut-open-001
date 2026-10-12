@@ -1,0 +1,21 @@
+{
+  "_comment": "Keyframes used for the first HYSTON MV (4:02). t = seconds; colours = sky top/bottom; rain/bloom/petals = 0..1. Values between keyframes are eased.",
+  "keyframes": [
+    {"t": 0,     "top": "#05080f", "bottom": "#121a28", "rain": 0.5,  "bloom": 0.0,  "petals": 0.0},
+    {"t": 14,    "top": "#08101c", "bottom": "#1b2738", "rain": 1.0,  "bloom": 0.0,  "petals": 0.0},
+    {"t": 54,    "top": "#0a1422", "bottom": "#223247", "rain": 1.0,  "bloom": 0.05, "petals": 0.0},
+    {"t": 58,    "top": "#152437", "bottom": "#8a6458", "rain": 0.45, "bloom": 0.45, "petals": 0.5},
+    {"t": 82,    "top": "#162638", "bottom": "#9a6c5c", "rain": 0.45, "bloom": 0.55, "petals": 0.5},
+    {"t": 86,    "top": "#0a1320", "bottom": "#253447", "rain": 0.9,  "bloom": 0.25, "petals": 0.1},
+    {"t": 110,   "top": "#0c1523", "bottom": "#2b3a4e", "rain": 0.9,  "bloom": 0.3,  "petals": 0.1},
+    {"t": 114,   "top": "#121d2e", "bottom": "#4a4552", "rain": 0.8,  "bloom": 0.45, "petals": 0.2},
+    {"t": 125,   "top": "#1b2b42", "bottom": "#b07a63", "rain": 0.4,  "bloom": 0.75, "petals": 0.7},
+    {"t": 149,   "top": "#1c2c42", "bottom": "#b67e66", "rain": 0.4,  "bloom": 0.8,  "petals": 0.7},
+    {"t": 152,   "top": "#0d0a18", "bottom": "#2e2340", "rain": 0.7,  "bloom": 0.5,  "petals": 0.15},
+    {"t": 176,   "top": "#110d1e", "bottom": "#3b2b4d", "rain": 0.6,  "bloom": 0.55, "petals": 0.2},
+    {"t": 179,   "top": "#24365a", "bottom": "#d79a74", "rain": 0.25, "bloom": 1.0,  "petals": 1.0},
+    {"t": 206,   "top": "#2a3d60", "bottom": "#e4ab82", "rain": 0.2,  "bloom": 1.0,  "petals": 1.0},
+    {"t": 212,   "top": "#1c2840", "bottom": "#a78272", "rain": 0.12, "bloom": 1.0,  "petals": 0.5},
+    {"t": 242.1, "top": "#0a0e18", "bottom": "#2a2a36", "rain": 0.0,  "bloom": 1.0,  "petals": 0.2}
+  ]
+}
