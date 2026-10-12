@@ -1,0 +1,4 @@
+numpy>=1.24
+pillow>=10.0
+soundfile>=0.12
+sherpa-onnx>=1.10

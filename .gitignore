@@ -1,0 +1,8 @@
+work/
+models/
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.mp4
+__pycache__/
